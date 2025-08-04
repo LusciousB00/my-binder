@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/lusciousb00-my-binder-z5dsra8e/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "hIHH70hKQbyd4DN7m2shCA",
+  "url": "http://jupyter-lusciousb00-my-binder-z5dsra8e:8888/user/lusciousb00-my-binder-z5dsra8e/",
+  "version": "2.15.0"
+}
