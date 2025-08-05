@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/lusciousb00-my-binder-tmd4gdf1/",
+  "base_url": "/user/lusciousb00-my-binder-81t232mm/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 19,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "0mXiCl0xQbCRuRHGkuhe1A",
-  "url": "http://jupyter-lusciousb00-my-binder-tmd4gdf1:8888/user/lusciousb00-my-binder-tmd4gdf1/",
+  "token": "JgdThXvCSt6eYoNkYT9OeA",
+  "url": "http://jupyter-lusciousb00-my-binder-81t232mm:8888/user/lusciousb00-my-binder-81t232mm/",
   "version": "2.15.0"
 }

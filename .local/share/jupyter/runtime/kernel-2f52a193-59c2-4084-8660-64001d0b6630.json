@@ -1,0 +1,13 @@
+{
+  "shell_port": 53211,
+  "iopub_port": 53127,
+  "stdin_port": 54761,
+  "control_port": 34203,
+  "hb_port": 40351,
+  "ip": "127.0.0.1",
+  "key": "1f7a74eb-df3026eadde61507f42f79c1",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/notebooks/animes.ipynb"
+}
